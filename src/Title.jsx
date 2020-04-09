@@ -6,7 +6,7 @@ const Title = () => {
   return (
     <Box mt={4} mb={2}>
       <Typography variant="h3" color="textPrimary">
-        {i18n.t("ACNH Turnip Calculator")}
+        {i18n.t("ACNH yoooo")}
       </Typography>
     </Box>
   );
